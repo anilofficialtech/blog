@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "is-language-code": "^5.0.12",
+    "langs": "^2.0.0",
+    "language-code": "^1.0.0"
+  }
+}
