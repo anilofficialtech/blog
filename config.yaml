@@ -30,7 +30,7 @@ languages:
     menu:
       main:
         - name: AI
-          url: ais
+          url: ai
           weight: 5
         - name: Search
           url: search/
