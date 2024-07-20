@@ -188,5 +188,5 @@ services:
     disableInlineCSS: true
   # disqus:
   #   shortname: ani.official
-  
+
   disqusShortname: ani.official
