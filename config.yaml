@@ -186,3 +186,5 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+  disqus:
+    shortname: ani.official
