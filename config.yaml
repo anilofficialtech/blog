@@ -47,6 +47,7 @@ outputs:
     - RSS
     - JSON
 
+disqusShortname: ani.official
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
@@ -67,6 +68,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   comments: true
+  
   images: ["images/papermod-cover.png"]
 
   profileMode:
@@ -189,4 +191,3 @@ services:
   # disqus:
   #   shortname: ani.official
 
-  disqusShortname: ani.official
