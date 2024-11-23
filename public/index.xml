@@ -4,11 +4,6 @@
     <title>The Eternal Bliss</title>
     <link>https://aniloffical.tech.github.io/</link>
     <description>Recent content on The Eternal Bliss</description>
-    <image>
-      <title>The Eternal Bliss</title>
-      <url>https://aniloffical.tech.github.io/images/papermod-cover.png</url>
-      <link>https://aniloffical.tech.github.io/images/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Mar 2024 22:43:45 +0530</lastBuildDate>
@@ -20,6 +15,21 @@
       <guid>https://aniloffical.tech.github.io/ai/intro-to-ai/</guid>
       <description>Intelligence Intelligence might be defined as the ability to learn and perform suitable techniques to solve problems and achieve goals, appropriate to the context in an uncertain, ever-varying world. A fully pre-programmed factory robot is flexible, accurate, and consistent but not intelligent.
 AI Artificial intelligence (AI) is the theory and development of computer systems capable of tasks that historically required human intelligence such as perception, learning, reasoning, problem solving, language interaction, and even producing creative work.</description>
+    </item>
+    <item>
+      <title>Hello Life</title>
+      <link>https://aniloffical.tech.github.io/posts/hello-word/</link>
+      <pubDate>Sun, 04 Feb 2024 21:31:06 +0530</pubDate>
+      <guid>https://aniloffical.tech.github.io/posts/hello-word/</guid>
+      <description>Preety sum up my learning till now :)
+🎶 🌧️
+हो रहा है जो हो रहा है क्यों तुम ना जानो, ना हम
+पम पारा रारा रम
+क्या पता हम में है कहानी या हैं कहानी में हम?
+पम पारा रारा रम
+कभी कभी जो ये आधी लगती है आधी लिख दे तू,
+आधी रह जाने दे जाने दे, जाने दे &amp;hellip;
+ज़िंदगी है जैसे बारीशों का पानी आधी भर ले तू,</description>
     </item>
   </channel>
 </rss>
