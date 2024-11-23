@@ -46,7 +46,6 @@ outputs:
     - HTML
     - RSS
     - JSON
-
 # disqusShortname: ani.official
 # disqusShortname: https-anilofficialtech-github-io-blog
 params:
@@ -189,10 +188,11 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
-  disqus:
-    shortname: https-anilofficialtech-github-io-blog
-    enable: true
-    count: true
+  # disqus:
+  #   shortname: https-anilofficialtech-github-io-blog
+    # enable: true
+    # count: true
 
+disqusShortname: ani.official
 params:
   comments: true

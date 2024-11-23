@@ -2,6 +2,7 @@
 title: "Introduction to AI"
 date: 2024-03-26T22:43:45+05:30
 draft: false
+comments: true
 ---
 # Intelligence
 Intelligence might be defined as the ability to learn
