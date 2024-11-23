@@ -193,6 +193,6 @@ services:
     # enable: true
     # count: true
 
-disqusShortname: ani.official
+disqusShortname: https-anilofficialtech-github-io-blog
 params:
   comments: true
